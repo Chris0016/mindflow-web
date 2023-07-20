@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhello_world=self.webpackChunkhello_world||[]).push([[773],{4092:l=>{l.exports=JSON.parse('{"permalink":"/mindflow-web/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
